@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Ming Li&#39;s Group</title>
-    <link>https://example.com/</link>
+    <link>https://minglichn.github.io/</link>
     <description>Recent content in About on Ming Li&#39;s Group</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://minglichn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://minglichn.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://minglichn.github.io/about/</guid>
       <description>About Me I received B.S. degree from Anhui University in 2009. Then, I studied the statistical physics as applied to complex networks and complex systems at University of Science and Technology of China, and received Ph.D. degree in 2014. From 2014 to 2016, I was a Post-doctoral Fellower in the Department of Modern Physics at University of Science and Technology of China. In the first half of 2016, I also worked at Department of Applied Physics, The Hong Kong Polytechnic University as a Post-doctoral Fellower.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://minglichn.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://minglichn.github.io/contact/</guid>
       <description>If you have any questions or comments, please feel free to contact me.
 Affilication Department of Physics, Hefei University of Technology, Hefei, Anhui 230009, P. R. China
 Email Email: lim@hfut.edu.cn
@@ -29,72 +29,72 @@ ResearchGate</description>
     
     <item>
       <title>Members</title>
-      <link>https://example.com/members-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://minglichn.github.io/members-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/members-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://minglichn.github.io/members-%E5%89%AF%E6%9C%AC/</guid>
       <description>PI Prof. Ming Li Email:lim@hfut.edu.cn Graduate Students Prof. Ming Li Email &amp;nbsp; Prof. Ming Li Email &amp;nbsp; Prof. Ming Li Email &amp;nbsp; Undergraduate Students Alumni </description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>https://example.com/members/</link>
+      <link>https://minglichn.github.io/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/members/</guid>
+      <guid>https://minglichn.github.io/members/</guid>
       <description>PI Prof. Ming Li Email:lim@hfut.edu.cn Graduate Students Undergraduate Students Alumni </description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://example.com/news/</link>
+      <link>https://minglichn.github.io/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/news/</guid>
+      <guid>https://minglichn.github.io/news/</guid>
       <description>News 2022-01-15 A review paper on the percolation of multilayer networks has published on Journal of University of Electronic Science and Technology of China (in Chinese), see Publications for details.
 2022-01-01 Ming Li‘s Lab has been launched in Hefei University of Technology!</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://example.com/publications/</link>
+      <link>https://minglichn.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publications/</guid>
-      <description>Since 2011, I have published 39 articles with collaborators in peer-reviewed journals and a book. These include: Physical Review E (3), National Science Review (1), Physics Reports (1), New Journal of Physics (2), Journal of Statistical Mechanics (4), Chaos, Solitons &amp;amp; Fractals (1), Europhysics Letters (3), Physics Letters A (1), PLoS ONE (1), Scientific Reports (3), Physica A (8), Chinese Physics Letters (1), Chinese Physics B (4), conference papers (2), and journals in Chinese (4).</description>
+      <guid>https://minglichn.github.io/publications/</guid>
+      <description>Since 2011, I have published 39 articles with collaborators in peer-reviewed journals. These include: Physical Review E (3), National Science Review (1), Physics Reports (1), New Journal of Physics (2), Journal of Statistical Mechanics (4), Chaos, Solitons &amp;amp; Fractals (1), Europhysics Letters (3), Physics Letters A (1), PLoS ONE (1), Scientific Reports (3), Physica A (8), Chinese Physics Letters (1), Chinese Physics B (4), conference papers (2), and journals in Chinese (4).</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://example.com/research/</link>
+      <link>https://minglichn.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/research/</guid>
+      <guid>https://minglichn.github.io/research/</guid>
       <description>Percolation Percolation originally means that &amp;ldquo;to filter&amp;rdquo; or &amp;ldquo;trickle through&amp;rdquo;. Here, in statistical physics, it often refers to a simple model and the corresponding profound theoretical system, which touches many concepts of statistical physics and nonlinear physics, such as scaling, renormalization, phase transition, critical phenomena and fractal. Due to the complexity involved in obtaining exact results from analytical models of percolation, computer simulations are typically used. So computational methods is also involved in the study of percolation model.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://example.com/teaching/</link>
+      <link>https://minglichn.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/teaching/</guid>
+      <guid>https://minglichn.github.io/teaching/</guid>
       <description>&amp;hellip; </description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>https://example.com/chinese/</link>
+      <link>https://minglichn.github.io/chinese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/chinese/</guid>
+      <guid>https://minglichn.github.io/chinese/</guid>
       <description>基本情况 李明，合肥工业大学物理系，研究员。邮箱: lim@hfut.edu.cn
 研究领域: 统计物理与复杂系统。近期主要研究方向: 逾渗相变理论与应用，复杂网络，非线性动力学。 主要研究成果请见Publications或者谷歌学术。
-招生情况 热忱欢迎有一定统计物理与计算物理基础且有志于从事相关研究的本科生、研究生加入本研究组；同时，也欢迎具有较强的编程与算法设计能力，有志于从事统计物理研究的数学、计算机等学科背景的同学加入。有意者请发送简历至邮箱：lim@hfut.edu.cn
+招生情况 热忱欢迎有一定统计物理与计算物理基础且有志于从事相关研究的本科生、研究生加入本研究组；同时，也欢迎具有计算机、数学等学科背景，有志于从事统计物理与复杂系统相关交叉学科问题研究的同学加入。有意者请发送简历至邮箱：lim@hfut.edu.cn
 本组研究的所需理论或技能，视具体方向可能包括但不限于以下内容：
-物理：统计物理、量子力学、非线性物理、计算物理、相变理论、蒙特卡洛模拟
-数学：微积分、概率论与数理统计、线性代数、图论
-计算机：一门基础编程语言（如C++或Fortran）、图算法、Linux系统基本操作、文字排版软件LaTeX、任一个绘图数据分析软件（如Origin）等。</description>
+物理：统计物理、量子力学、非线性物理、计算物理、相变理论、蒙特卡洛模拟等。
+数学：微积分、概率论、数理统计、线性代数、图论、离散数学等。
+计算机：一门基础编程语言（如C++、Fortran）、图算法、Linux系统基本操作、文字排版软件LaTeX、任一个绘图数据分析软件（如Origin）等。</description>
     </item>
     
   </channel>

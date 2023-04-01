@@ -42,10 +42,10 @@ ResearchGate</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stat-phys.github.io/news/</guid>
-      <description>News 2022-10-08 The paper &amp;ldquo;Effect of coupling structure on traffic-driven epidemic spreading in interconnected networks&amp;rdquo; was published online, see Physica A for details.
+      <description>News 2022-11-04 &amp;ldquo;SRRS: A blockchain fast propagation protocol based on non-Markovian process&amp;rdquo; was published online, see Computer Networks for details.
+2022-10-08 The paper &amp;ldquo;Effect of coupling structure on traffic-driven epidemic spreading in interconnected networks&amp;rdquo; was published online, see Physica A for details.
 2022-08-26 Welcome Liwenying Yang to join our Lab as a master student.
-2022-08-26 The paper &amp;ldquo;Optimizing protection resource allocation for traffic-driven epidemic spreading&amp;rdquo; was published online, see Publications for details.
-2022-08-11 A new paper on Blockchain has been published (SRRS: A Blockchain Fast Propagation Protocol Based on non-Markovian Process), see Publications for details.</description>
+2022-08-26 The paper &amp;ldquo;Optimizing protection resource allocation for traffic-driven epidemic spreading&amp;rdquo; was published online, see Publications for details.</description>
     </item>
     
     <item>
@@ -72,8 +72,10 @@ ResearchGate</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stat-phys.github.io/teaching/</guid>
-      <description>高等统计物理 (Advanced Statistical Physics) 2022秋季研究生课程 (Autumn term 2022, for graduate students)
-Chapter 0 Chapter 1 Chapter 2 </description>
+      <description>2023春季(Spring term 2023) 研究生课程(for graduate students): 学科前沿专题 (Lectures on Frontiers of the Discipline)
+做了一次关于分形的报告(Contribute a lecture on fractals)
+2022秋季(Autumn term 2022) 研究生课程(for graduate students): 高等统计物理 (Advanced Statistical Physics)
+单独授课(Given by Ming li)</description>
     </item>
     
     <item>
@@ -82,14 +84,15 @@ Chapter 0 Chapter 1 Chapter 2 </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stat-phys.github.io/chinese/</guid>
-      <description>基本情况 李明，合肥工业大学物理系，研究员。邮箱: lim@hfut.edu.cn
-研究领域: 统计物理与复杂系统。近期主要研究方向: 晶格与网络系统的相变模型，复杂网络结构分析。主要研究成果请见Publications或者谷歌学术。
-招生情况 研究组每年招收1-2名研究生，组内学习与科研要求相对严格，老师会给每位学生提供具体的学习与科研指导。热忱欢迎有一定统计物理与计算物理基础且有志于从事相关研究的研究生加入，也欢迎本科生做毕业设计等；同时，也欢迎具有计算机、数学等学科背景，有志于从事交叉学科问题研究的同学加入。有意者请发送简历至邮箱：lim@hfut.edu.cn
-我们从事理论研究，对物理基础与计算能力有一定要求，所以希望你已熟练掌握或可短时间内熟练掌握基本的数理与计算机技能(包括但不限于)：
+      <description>基本情况 李明，博士，研究员/黄山学者特聘教授，合肥工业大学物理学院物理系。邮箱: lim@hfut.edu.cn
+研究领域: 统计物理与复杂系统。近期主要研究方向: 晶格系统的相变模型，复杂网络结构分析。主要研究成果请见Publications或者谷歌学术。
+招生情况 研究组每年招收1-3名研究生，热忱欢迎有志于从事相关物理问题研究的同学加入；也欢迎具有数学、计算机等学科背景，有志于从事交叉学科问题研究的同学加入。有意者请发送简历至邮箱：lim@hfut.edu.cn
+优先考虑熟练掌握以下(部分)数理基础与计算机相关技能的同学：
 物理：统计物理、量子力学、计算物理、非线性物理等。
 数学：微积分、概率论、数理统计、线性代数、离散数学等。
 计算机：常见的数据结构与算法、编程语言（如C++、Fortran、Python）、Linux基本操作、文字排版软件LaTeX、绘图与数据分析软件（如Origin、Gnuplot）等。
-其它：能熟练阅读英文文献，有一定的英文写作能力，具有较强中文读、写、报告能力。</description>
+其它：能熟练阅读英文文献，有一定的英文写作能力，较强的中文读、写、报告能力。
+进阶技能：相变理论、蒙特卡洛模拟、随机图论等。</description>
     </item>
     
   </channel>

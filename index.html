@@ -89,8 +89,8 @@
 <hr>
 <div id="content">
 <div class="container">
-    <h2 id="welcome-to-ming-lis-group">Welcome to Ming Li’s Group!</h2>
-<p>Our group explores the fascinating world of ​Statistical Physics and Complex Systems, with a focus on phase transitions, critical phenomena, and ​complex networks. Leveraging tools from statistical physics, and computer simulations, we investigate the organizational mechanisms and critical phenomena that govern a wide range of systems. Through this work, we aim to uncover the universal principles underlying natural and social complex systems, bridging theoretical insights with real-world applications.</p>
+    <h2 id="welcome-to-ming-lis-group">Welcome to Ming Li&rsquo;s Group!</h2>
+<p>Our group explores the fascinating world of Statistical Physics and Complex Systems, with a focus on phase transitions, critical phenomena, and complex networks. Leveraging tools from statistical physics, and computer simulations, we investigate the organizational mechanisms and critical phenomena that govern a wide range of systems. Through this work, we aim to uncover the universal principles underlying natural and social complex systems, bridging theoretical insights with real-world applications.</p>
 <p>For more details about our research, visit the <a href="/research">Research</a> section.</p>
 <hr>
 <h2 id="newsnews"><a href="/news">News</a></h2>
@@ -135,7 +135,7 @@
 <p>2022-01-15  A review paper on the percolation of multilayer networks has been published on Journal of University of Electronic Science and Technology of China (in Chinese), see <a href="/publications">Publications</a> for details.</p>
 </li>
 <li>
-<p>2022-01-01  Ming Li‘s Lab has been launched in Hefei University of Technology!</p>
+<p>2022-01-01  Ming Li&rsquo;s Lab has been launched in Hefei University of Technology!</p>
 </li>
 </ul>
 
@@ -150,5 +150,55 @@
         </div>
     
 </div>
+
+<script>
+  const repoOwner = 'your_github_username';
+  const repoName = 'your_repo_name';
+  const filePath = 'visitor_count.txt';
+  const token = 'your_github_personal_access_token'; 
+
+  
+  async function getVisitorCount() {
+    const url = `https:
+    const response = await fetch(url, {
+      headers: {
+        Authorization: `token ${token}`,
+      },
+    });
+    const data = await response.json();
+    const content = atob(data.content); 
+    return parseInt(content.trim(), 10) || 0;
+  }
+
+  
+  async function updateVisitorCount() {
+    const count = await getVisitorCount();
+    const newCount = count + 1;
+
+    const url = `https:
+    const response = await fetch(url, {
+      method: 'PUT',
+      headers: {
+        Authorization: `token ${token}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        message: 'Update visitor count',
+        content: btoa(newCount.toString()), 
+        sha: (await getVisitorCount()).sha, 
+      }),
+    });
+
+    if (response.ok) {
+      document.getElementById('visitorCount').textContent = newCount;
+    } else {
+      console.error('Failed to update visitor count');
+    }
+  }
+
+  
+  updateVisitorCount();
+</script>
+<p>Visits: <span id="visitorCount">loading ...</span></p>
 </body>
 </html>

@@ -129,7 +129,7 @@
 <p>2022-01-15  A review paper on the percolation of multilayer networks has been published on Journal of University of Electronic Science and Technology of China (in Chinese), see <a href="/publications">Publications</a> for details.</p>
 </li>
 <li>
-<p>2022-01-01  Ming Li‘s Lab has been launched in Hefei University of Technology!</p>
+<p>2022-01-01  Ming Li&rsquo;s Lab has been launched in Hefei University of Technology!</p>
 </li>
 </ul>
 
@@ -144,5 +144,55 @@
         </div>
     
 </div>
+
+<script>
+  const repoOwner = 'your_github_username';
+  const repoName = 'your_repo_name';
+  const filePath = 'visitor_count.txt';
+  const token = 'your_github_personal_access_token'; 
+
+  
+  async function getVisitorCount() {
+    const url = `https:
+    const response = await fetch(url, {
+      headers: {
+        Authorization: `token ${token}`,
+      },
+    });
+    const data = await response.json();
+    const content = atob(data.content); 
+    return parseInt(content.trim(), 10) || 0;
+  }
+
+  
+  async function updateVisitorCount() {
+    const count = await getVisitorCount();
+    const newCount = count + 1;
+
+    const url = `https:
+    const response = await fetch(url, {
+      method: 'PUT',
+      headers: {
+        Authorization: `token ${token}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        message: 'Update visitor count',
+        content: btoa(newCount.toString()), 
+        sha: (await getVisitorCount()).sha, 
+      }),
+    });
+
+    if (response.ok) {
+      document.getElementById('visitorCount').textContent = newCount;
+    } else {
+      console.error('Failed to update visitor count');
+    }
+  }
+
+  
+  updateVisitorCount();
+</script>
+<p>Visits: <span id="visitorCount">loading ...</span></p>
 </body>
 </html>

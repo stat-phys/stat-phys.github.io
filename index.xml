@@ -33,7 +33,7 @@ ResearchGate</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stat-phys.github.io/members/</guid>
-      <description>PI Prof. Ming Li Graduate Students Name Join Date Email Honor Qi Wang 2025 Xuewei Zhao 2023 2025 National Scholarship Undergraduate Students Name Join Date Email Honor Guanyao Chen 2024 Yuanzhe Jiang 2024 Alumni Name Time in Group Degree Awarded Post-Graduation Destination Chenglei Chen (Undergraduate student) 2024-2025 &amp;ndash; &amp;ndash; Liwenying Yang (2024 National Scholarship) 2022-2025 Master of Physics New Oriental Zhenyu Yang (jointly with Dr. Hui Wang) 2021-2024 Master of Engineering China Telecom </description>
+      <description>PI Prof. Ming Li Graduate Students Name Join Date Email Honors &amp;amp; Awards Qi Wang 2025.9 Xuewei Zhao 2023.9 2025 National Scholarship / 2026 Outstanding Graduate (Provincial &amp;amp; University Level) Undergraduate Students Name Join Date Email Honor Guanyao Chen 2024.9 Yuanzhe Jiang 2024.9 Alumni Name Remarks Time in Group Degree Awarded Post-Graduation Destination Chenglei Chen Undergraduate student 2024.9-2025.12 &amp;ndash; Moved to another group Liwenying Yang 2024 National Scholarship 2022.9-2025.6 Master of Physics New Oriental Zhenyu Yang jointly with Dr.</description>
     </item>
     
     <item>
@@ -42,8 +42,9 @@ ResearchGate</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stat-phys.github.io/news/</guid>
-      <description>News 2026-03-14 Our new paper on the Backbone three-point correlation function in the two-dimensional Potts model has been selected as Editors&amp;rsquo; Suggestion in Physical Review E.
-2025-11-21 We have found that the paths of depth-first search exhibits nontrivial fractal scaling across statistical physics models and all studied dimensions. Even for full lattices, the path is still fractal in two dimensions. Please see Physical Review E 112, 054133 (2025) for details.</description>
+      <description>News By employing the Conformal Loop Ensemble (CLE), we solve the iterative bicolored percolation model proposed in our prior work [Phys.Rev.Res.] for both the O(n) loop and the Fuzzy Potts models. For details, refer to Physical Review E.
+2026-03-14 Our new paper on the Backbone three-point correlation function in the two-dimensional Potts model has been selected as Editors&amp;rsquo; Suggestion in Physical Review E.
+2025-11-21 We have found that the paths of depth-first search exhibits nontrivial fractal scaling across statistical physics models and all studied dimensions.</description>
     </item>
     
     <item>
@@ -71,15 +72,14 @@ Phase Transitions and Critical Phenomena Phase transitions, where a system under
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stat-phys.github.io/teaching/</guid>
-      <description>2025秋季(Autumn term 2025) 本科生课程(for undergraduate students): 新生研讨课 (Freshman Seminar)
+      <description>2026春季(Spring term 2026) 本科生课程(for undergraduate students): 热力学与统计物理 (Thermodynamics and Statistical Physics) 2025秋季(Autumn term 2025) 本科生课程(for undergraduate students): 新生研讨课 (Freshman Seminar)
 一次报告(Contribute a lecture)
 研究生课程(for graduate students): 学科前沿专题 (Lectures on Frontiers of the Discipline)
 一次报告(Contribute a lecture)
 2025春季(Spring term 2025) 本科生课程(for undergraduate students): 热力学与统计物理 (Thermodynamics and Statistical Physics) 2024秋季(Autumn term 2024) 本科生课程(for undergraduate students): 新生研讨课 (Freshman Seminar)
 一次报告(Contribute a lecture)
 研究生课程(for graduate students): 学科前沿专题 (Lectures on Frontiers of the Discipline)
-一次报告(Contribute a lecture)
-2024春季(Spring term 2024) 研究生课程(for graduate students): 学科前沿专题 (Lectures on Frontiers of the Discipline)</description>
+一次报告(Contribute a lecture)</description>
     </item>
     
     <item>
@@ -88,9 +88,9 @@ Phase Transitions and Critical Phenomena Phase transitions, where a system under
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stat-phys.github.io/chinese/</guid>
-      <description>基本情况 李明，博士，研究员/黄山学者特聘教授，合肥工业大学物理学院物理系。
-研究领域（理论研究）: 统计物理与复杂系统。近期主要研究兴趣: 临界行为的动态分析方法、高维逾渗相变、随机游走、沙堆模型等。主要研究成果请见Publications或者谷歌学术。
-招生情况 如果你在统计物理、计算物理、编程模拟、数学等一方面或多方面有所擅长，希望利用这些知识做些有趣的研究，或在科研中深入学习相关知识，欢迎加入我们（研究生、本科生均可）。交流沟通请发邮件至：lim@hfut.edu.cn。</description>
+      <description>基本情况 李明，硕士/博士生导师，研究员/黄山学者特聘教授，合肥工业大学物理学院物理系。
+本研究组主要开展统计物理与复杂系统方向的理论与数值模拟研究，关注多体系统中从微观相互作用到宏观集体行为的涌现过程。当前研究兴趣包括临界现象的动态与几何分析方法、高维系统中的相变问题，以及复杂网络的结构与动力学特性。主要研究成果请见Publications或者谷歌学术。
+招生情况 如果你对统计物理、计算物理或编程模拟感兴趣，并具备一定基础，或希望在科研过程中逐步提升数理分析与计算能力，欢迎加入我们，一起探索有趣的科学问题。欢迎通过邮件联系交流。lim@hfut.edu.cn。</description>
     </item>
     
   </channel>
